@@ -15,9 +15,9 @@ a{
     color:white;
 }
     
-}
-nav
- h2{
+
+nav h2{
+
 
  
     margin: 0px;
@@ -52,10 +52,22 @@ a{
     margin-left: 15px;
  }
  .content{
-     text-align: center;
+     
      padding:40px;
      
  }
+h3{
+    text-align: center;
+    color:rgb(93, 93, 241)
+}
+.secondary-block h3 {
+    color:white;
+}
+
+
+
+
+
  img{
      border-radius:75px ;
      width:150px;
